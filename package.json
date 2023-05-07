@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@line/bot-sdk": "^7.5.2",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "openai": "^3.2.1"
   }
 }
